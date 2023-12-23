@@ -1,4 +1,4 @@
-//The OutWas Too big 
+//The Output Was Too big (smaple)
 //Data format X Y R G B !! Note If you are running this pleaes remove this 2 line 
 
 0 0 60 60 60
